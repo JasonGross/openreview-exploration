@@ -1,0 +1,3 @@
+[submodule "memocache"]
+	path = memocache
+	url = https://github.com/JasonGross/memocache.git
